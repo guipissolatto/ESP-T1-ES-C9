@@ -1,12 +1,12 @@
 # Projeto: Reescrita do ERP de uma Rede de Farmácias (Delphi para Java)
 
-Este repositório reúne a documentação de gestão de riscos e comunicação de um projeto real de consultoria que participei. A atividade foi feita para a Pós-Graduação em Engenharia de Software com ênfase em Automação e Inovação com Inteligência Artificial Generativa.
+Este repositório reúne a documentação de gestão de riscos e comunicação de um projeto real de consultoria que participei. 
 
 Esse projeto aconteceu antes da IA Generativa existir como ferramenta de trabalho. A análise de riscos deste repositório é retrospectiva: usei IA hoje para revisar o relato do projeto e organizar como a identificação, análise e resposta a riscos poderiam ter sido feitas se a ferramenta estivesse disponível na época.
 
 ## 1. Visão Geral do Projeto
 
-O projeto foi a reescrita completa do ERP legado (Delphi) de uma grande rede de farmácias para uma nova plataforma em Java, contratada por uma consultoria. O escopo fechado era só a migração de tecnologia: reescrever o sistema existente em outra linguagem, sem previsão contratual de corrigir as regras de negócio problemáticas do sistema antigo.
+O projeto consistia na reescrita completa do ERP legado (Delphi) de uma grande rede de farmácias para uma nova tecnologia em Java para permitir a expansão do cliente, contratada por uma consultoria. O escopo fechado era só a migração de tecnologia: reescrever o sistema existente em outra linguagem, sem previsão contratual de corrigir as regras de negócio problemáticas do sistema antigo.
 
 ### 1.1 Linha do tempo e decisões críticas
 
